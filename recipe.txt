@@ -3,3 +3,10 @@ welcome to Kitchen Chef
 1.soop
 2.chinease 
 3.noodles
+
+Welcome to Another Kitchen Chef
+
+
+1.Gravey soop
+2.Chicken soop
+3.Haka noodles
